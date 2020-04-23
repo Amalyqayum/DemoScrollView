@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo ScrollView</string>
+    <string name="button">Button</string>
+</resources>
